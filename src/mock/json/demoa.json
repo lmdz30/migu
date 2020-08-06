@@ -1,0 +1,1052 @@
+{
+  "shopContent": {
+    
+    "title": ["猜你喜欢", "最近热卖", "潮流时尚", "品牌折扣"],
+    "type": [
+      "男装",
+      "女装",
+      "儿童玩具",
+      "家用电器",
+      "手机",
+      "美妆·彩妆",
+      "零食",
+      "茶酒",
+      "家纺",
+      "珠宝",
+      "内衣",
+      "数码",
+      "运动户外",
+      "文具",
+      "建材"
+   
+    ],
+    "content": [
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/147204/2/2213/139395/5f02ec15E0ab01015/2bd729a0052a3dd9.jpg!q80.dpg.webp",
+        "img_arr": [
+          
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/118939/30/6081/62901/5eb78e80Efc05d5bb/b96b76b1eed1c89c.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/122680/17/744/29501/5eb78e80E2d96cd5a/49b26dd52931768b.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/118553/37/6069/38218/5eb78e80E0c0673ed/aec6deaba344a61c.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/111001/36/6182/19242/5eb78e81Ea98c0db8/6d97ee3cb50b16c3.jpg!q70.dpg.webp"
+        
+        ],
+        "product": "华为P40 Pro 5G【6期免息|享8重好礼】p40pro全网通5g双卡双待曲屏智能手机 冰霜银 5G全网通 8G+256G",
+        "price": "5988.00",
+        "title": "猜你喜欢",
+        "type": "手机",
+        "goods_id": 1,
+        "address": "陕西宝鸡",
+        "time": 19,
+        "sales": 1900020,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/147204/2/2213/139395/5f02ec15E0ab01015/2bd729a0052a3dd9.jpg!q80.dpg.webp"
+        },
+        "sku": {
+          "price": "5988.00",
+          "maxPrice":"9900.00",
+          "stock_num": 2000,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "蓝色",
+                  "name": "蓝色",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/150174/34/2249/142345/5f02ec2fE08ff2eb8/952a5aff49b39dad.jpg"
+                },
+                {
+                  "id": "晨曦金",
+                  "name": "晨曦金",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/148204/15/2146/139892/5f02ec39E61f8200b/b309910f41e00e23.jpg"
+                }
+              ],
+              "largeImageMode": true
+            },
+            {
+              "k": "规格",
+              "k_id": "1234",
+              "k_s": "s2",
+              "count": 5,
+              "v": [
+                {
+                  "id": "5G全网通 8G+128G",
+                  "name": "5G全网通 8G+128G"
+                },
+                {
+                  "id": "5G全网通 8G+256G",
+                  "name": "5G全网通 8G+256G"
+                },
+                {
+                  "id": "5G全网通 8G+512G",
+                  "name": "5G全网通 8G+512G"
+                }
+              ]
+            }
+          ],
+          "list": [
+            {
+              "id": 34,
+              "s1": "蓝色",
+              "s2": "5G全网通 8G+128G",
+              "price": 580000,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id": 12345
+            },
+            {
+              "id": 234,
+              "s1": "蓝色",
+              "s2": "5G全网通 8G+256G",
+              "price": 620000,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id": 12345
+            },
+            {
+              "id": 656,
+              "s1": "蓝色",
+              "s2": "5G全网通 8G+512G",
+              "price": 790000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 345,
+              "s1": "晨曦金",
+              "s2": "5G全网通 8G+128G",
+              "price": 580000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 11573,
+              "s1": "晨曦金",
+              "s2": "5G全网通 8G+256G",
+              "price": 640000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 645,
+              "s1": "晨曦金",
+              "s2": "5G全网通 8G+512G",
+              "price": 890000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            }
+          ]
+        }
+      },
+
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/136239/9/4767/94269/5f125e26E49a2b5d9/a718ee83e7fe036c.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/136239/9/4767/94269/5f125e26E49a2b5d9/a718ee83e7fe036c.jpg!q80.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/95909/2/17276/80503/5e83f2cdE496feed1/03a2c80814b7808d.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/117780/32/533/57349/5e8da261E79c68777/a43d62baea8b6030.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/91325/27/17056/90848/5e843425E3977a66b/62a4a65a72c6f5e4.jpg!q70.dpg.webp"
+        ],
+        "product": "【防指纹】咪咕 苹果11手机壳 iPhone11 pro max超薄全包防摔磨砂透明硅胶保护套 暗夜绿 苹果11（6.1英寸）",
+        "title": "猜你喜欢",
+        "price":"4900.00",
+        "type": "手机",
+        "goods_id": 2,
+        "address": "青海西宁",
+        "time": 23,
+        "sales": 109090,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/136239/9/4767/94269/5f125e26E49a2b5d9/a718ee83e7fe036c.jpg!q80.dpg.webp"
+        },
+        "sku": {
+          "price": "4900",
+          "maxPrice":"8900",
+          "stock_num": 100,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "白色",
+                  "name": "白色",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/141460/24/3161/56678/5f125e1cEbd901536/2abb9cd57a195a30.jpg"
+                },
+                {
+                  "id": "黑色",
+                  "name": "黑色",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/125149/2/7356/70733/5f125e13E514a2a31/22aad8e9da3079f3.jpg"
+                }
+              ],
+              "largeImageMode": true
+            },
+            {
+              "k": "型号",
+              "k_id": "1234",
+              "k_s": "s2",
+              "count": 5,
+              "v": [
+                {
+                  "id": "5G全网通 8G+128G",
+                  "name": "5G全网通 8G+128G"
+                },
+                {
+                  "id": "5G全网通 8G+256G",
+                  "name": "5G全网通 8G+256G"
+                },
+                {
+                  "id": "5G全网通 8G+512G",
+                  "name": "5G全网通 8G+512G"
+                }
+              ]
+            }
+          ],
+          "list": [
+            {
+              "id": 1,
+              "s1": "白色",
+              "s2": "5G全网通 8G+128G",
+              "price": 490000,
+              "discoun": 99,
+              "stock_num": 1000,
+              "goods_id": 12345
+            },
+            {
+              "id": 2,
+              "s1": "白色",
+              "s2": "5G全网通 8G+256G",
+              "price": 499000,
+              "discoun": 100,
+              "stock_num": 2000,
+              "goods_id": 12345
+            },
+            {
+              "id": 3,
+              "s1": "白色",
+              "s2": "5G全网通 8G+512G",
+              "price": 500000,
+              "discoun": 100,
+              "stock_num": 50,
+              "goods_id": 12345
+            },
+            {
+              "id": 4,
+              "s1": "黑色",
+              "s2": "5G全网通 8G+128G",
+              "price": 500000,
+              "discoun": 100,
+              "stock_num": 1000,
+              "goods_id": 12345
+            },
+            {
+              "id": 5,
+              "s1": "黑色",
+              "s2": "5G全网通 8G+256G",
+              "price": 560000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 6,
+              "s1": "黑色",
+              "s2": "5G全网通 8G+512G",
+              "price": 780000,
+              "discoun": 100,
+              "stock_num": 1000,
+              "goods_id": 12345
+            }
+          ]
+        }
+      },
+
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/140804/30/1150/169535/5eee2e18Ed573c90e/40ce23f5baf53286.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/145023/2/1174/174775/5eee2e10E90408195/1e215bb1d7df4a24.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/127510/37/5241/91726/5eec9304E022b6f11/7033666df798f7a4.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/148733/21/1002/645356/5eec9304E54715048/7d4a453c8f9b4abd.png.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/116788/13/10738/84258/5eee2e1cEda305c86/4ba300f98faa2491.jpg!q70.dpg.webp"
+        ],
+        "product": "咪咕漫威正版复仇者联盟4蜘蛛侠手办摆件MK85漫威周边玩具模型关节可动漫模型生日情人节礼物LED灯光 蜘蛛侠手办",
+        "price": "259.00",
+        "title": "最近热卖",
+        "type": "儿童玩具",
+        "goods_id": 4,
+        "address": "上海浦东",
+        "time": 22,
+        "sales": 22222343,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/140804/30/1150/169535/5eee2e18Ed573c90e/40ce23f5baf53286.jpg!q80.dpg.webp"
+        },
+        "sku": {
+          "price": "259.00",
+          "maxPrice":"689.00",
+          "stock_num": 9999,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "goods_id":1,
+                  "id": "蜘蛛侠手办",
+                  "name": "蜘蛛侠手办",
+                  "imgUrl": "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/127510/37/5241/91726/5eec9304E022b6f11/7033666df798f7a4.jpg!q70.dpg.webp"
+                },
+                {
+                  "goods_id":2,
+                  "id": "复刻蜘蛛侠手办",
+                  "name": "复刻蜘蛛侠手办",
+                  "imgUrl": "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/116788/13/10738/84258/5eee2e1cEda305c86/4ba300f98faa2491.jpg!q70.dpg.webp"
+                }
+              ],
+              "largeImageMode": true
+            }
+          ],
+          "list": [
+            
+            {
+              "id": 12,
+              "s1": "蜘蛛侠手办",
+              "s2": "0",
+              "price": 25900,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id":1
+              
+            },
+            {
+              "id": 13,
+              "s1": "复刻蜘蛛侠手办",
+              "s2": "0",
+              "price": 68900,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id":2
+            }
+           
+          ]
+        }
+      },
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/31026/25/4210/164383/5c7cc888Ed717f43f/205cc14f88cb694d.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/50412/4/257/76814/5cd3e821Ead346fa6/bfbb015085432d07.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/34580/10/8994/181275/5cd3fc9fE9dd14a1c/be0d551123b697d4.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/19549/31/6491/168774/5c7cc87dE03d951df/d356a3f741b8a20c.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/27555/12/9144/176564/5c7cc883Ed4150add/79e518e607dd1763.jpg!q70.dpg.webp"
+        ],
+        "product": "咪咕 复仇者联盟4漫威系列英雄MSP202蓝牙音箱 电脑音响低音炮 插卡无线音箱 户外便携迷你音响 蜘蛛侠",
+        "price": "333.00",
+        "title": "最近热卖",
+        "type": "儿童玩具",
+        "goods_id": 3,
+        "address": "山西运城",
+        "time": 12,
+        "sales": 1221212,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/19549/31/6491/168774/5c7cc87dE03d951df/d356a3f741b8a20c.jpg!q70.dpg.webp"
+        },
+        "sku": {
+          "price": "333.00",
+          "maxPrice":"534.00",
+          "stock_num": 12121,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "美队",
+                  "name": "美队",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/27555/12/9144/176564/5c7cc883Ed4150add/79e518e607dd1763.jpg"
+                },
+                {
+                  "id": "蜘蛛侠",
+                  "name": "蜘蛛侠",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/31026/25/4210/164383/5c7cc888Ed717f43f/205cc14f88cb694d.jpg"
+                },
+                {
+                  "id": "黑豹",
+                  "name": "黑豹",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/19549/31/6491/168774/5c7cc87dE03d951df/d356a3f741b8a20c.jpg"
+                }
+              ],
+              "largeImageMode": true
+            }
+          ],
+          "list": [
+            
+            {
+              "id": 12,
+              "s1": "美队",
+              "s2": "0",
+              "price": 36700,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id":1
+              
+            },
+            {
+              "id": 13,
+              "s1": "蜘蛛侠",
+              "s2": "0",
+              "price": 33300,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id":2
+            },
+            {
+              "id": 14,
+              "s1": "黑豹",
+              "s2": "0",
+              "price": 45600,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            }
+           
+          ]
+        }
+      },
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/134715/3/4438/107328/5f128be5Ed818e589/1728ab30cb0f5adb.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/125702/39/7502/128375/5f128be5Ef919b8b6/64320f861cab196f.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/140264/21/3228/133485/5f128be5E6a76ef2f/964d1262846e9752.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/118902/6/12842/154971/5f128be6Eda92855c/8d54729094d84626.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/139886/23/3168/110983/5f128be7E5e4387fc/c55e17841d44ebc6.jpg!q70.dpg.webp"
+        ],
+        "product": "古伊芙雪纺连衣裙子女装夏季新款2020印碎花蕾丝棉麻时尚气质性感女士小个子连衣裙女大码两件套装裙 图片色#8032 M",
+        "price": "149.00",
+        "title": "潮流时尚",
+        "type": "女装",
+        "goods_id": 5,
+        "address": "北京朝阳",
+        "time": 21,
+        "sales": 1111111,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/134715/3/4438/107328/5f128be5Ed818e589/1728ab30cb0f5adb.jpg!q80.dpg.webp"
+        },
+        "sku": {
+          "price": "149.00",
+          "maxPrice":"256.00",
+          "stock_num": 1223,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "图片色#8032",
+                  "name": "图片色#8032",
+                  "imgUrl": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/134715/3/4438/107328/5f128be5Ed818e589/1728ab30cb0f5adb.jpg!q80.dpg.webp"
+                },
+                {
+                  "id": "6036#图片色",
+                  "name": "6036#图片色",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/125702/39/7502/128375/5f128be5Ef919b8b6/64320f861cab196f.jpg"
+                },
+                {
+                  "id": "6839#图片色",
+                  "name": "6839#图片色",
+                  "imgUrl": "//img14.360buyimg.com/n4/jfs/t1/140264/21/3228/133485/5f128be5E6a76ef2f/964d1262846e9752.jpg"
+                }
+              ],
+              "largeImageMode": true
+            },
+            {
+              "k": "规格",
+              "k_id": "1234",
+              "k_s": "s2",
+              "count": 5,
+              "v": [
+                {
+                  "id": "M",
+                  "name": "M"
+                },
+                {
+                  "id": "L",
+                  "name": "L"
+                },
+                {
+                  "id": "XL",
+                  "name": "XL"
+                }
+              ]
+            }
+          ],
+          "list": [
+            {
+              "id": 12,
+              "s1": "图片色#8032",
+              "s2": "M",
+              "price": 14900,
+              "discoun": 99,
+              "stock_num": 222,
+              "goods_id": 12345
+            },
+            {
+              "id": 13,
+              "s1": "图片色#8032",
+              "s2": "L",
+              "price": 15600,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id": 12345
+            },
+            {
+              "id": 134,
+              "s1": "图片色#8032",
+              "s2": "XL",
+              "price": 20000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 15,
+              "s1": "6036#图片色",
+              "s2": "M",
+              "price": 23100,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 16,
+              "s1": "6036#图片色",
+              "s2": "L",
+              "price": 16800,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 17,
+              "s1": "6036#图片色",
+              "s2": "XL",
+              "price": 22000,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            },
+            {
+              "id": 18,
+              "s1": "6839#图片色",
+              "s2": "M",
+              "price": 24900,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id": 12345
+            },
+            {
+              "id": 19,
+              "s1": "6839#图片色",
+              "s2": "L",
+              "price": 22800,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id": 12345
+            },
+            {
+              "id": 20,
+              "s1": "6839#图片色",
+              "s2": "XL",
+              "price": 24800,
+              "discoun": 100,
+              "stock_num": 129,
+              "goods_id": 12345
+            }
+          ]
+        }
+      },
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/142665/26/1863/57007/5efc4b29E11c5a892/d9e862238a04dd38.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/141955/16/1838/90298/5efc4b29E3f9e09f7/bddc81c6dfba4f71.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/140137/5/1864/55601/5efc4b29Eeccd985d/717c16de405a1a2e.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/126824/19/6027/50558/5efc4b29Ed9250ae3/f791abb77eea84bd.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/127807/3/5994/48789/5efc4b29E7d955c31/7c364806f3d73dd2.jpg!q70.dpg.webp"
+        ],
+        "product": "AJ1 男子 AIR JORDAN 1 LOW 运动鞋 553558 553558-123 41",
+        "price": "799.00",
+        "title": "品牌折扣",
+        "type": "运动户外",
+        "goods_id": 6,
+        "address": "江苏莆田",
+        "time": 24,
+        "sales": 3434355,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/135764/28/3395/47497/5efc4b29E0b5f7e2a/17eec957a2fed503.jpg!q70.dpg.webp"
+        },
+        "sku": {
+          "price": "799.00",
+          "maxPrice":"2300.00",
+          "stock_num": 343545,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "553558-123",
+                  "name": "553558-123",
+                  "imgUrl": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/142665/26/1863/57007/5efc4b29E11c5a892/d9e862238a04dd38.jpg!q80.dpg.webp"
+                }
+              ],
+              "largeImageMode": true
+            },
+            {
+              "k": "尺码",
+              "k_id": "1234",
+              "k_s": "s2",
+              "count": 5,
+              "v": [
+                {
+                  "id": "39",
+                  "name": "39"
+                },
+                {
+                  "id": "40",
+                  "name": "40"
+                },
+                {
+                  "id": "41",
+                  "name": "41"
+                },
+                {
+                  "id": "42",
+                  "name": "42"
+                },
+                {
+                  "id": "43",
+                  "name": "43"
+                },
+                {
+                  "id": "44",
+                  "name": "44"
+                }
+              ]
+            }
+          ],
+          "list": [
+            
+            {
+              "id": 12,
+              "s1": "553558-123",
+              "s2": "39",
+              "price": 180000,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id":1
+              
+            },
+            {
+              "id": 13,
+              "s1": "553558-123",
+              "s2": "40",
+              "price": 200000,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id":2
+            },
+            {
+              "id": 14,
+              "s1": "553558-123",
+              "s2": "41",
+              "price": 125000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 15,
+              "s1": "553558-123",
+              "s2": "42",
+              "price": 99000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 16,
+              "s1": "553558-123",
+              "s2": "43",
+              "price": 99880,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 17,
+              "s1": "553558-123",
+              "s2": "44",
+              "price": 110000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            }
+           
+          ]
+        }
+      },
+      {
+        "img": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/142665/26/1863/57007/5efc4b29E11c5a892/d9e862238a04dd38.jpg!q80.dpg.webp",
+        "img_arr": [
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/141955/16/1838/90298/5efc4b29E3f9e09f7/bddc81c6dfba4f71.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/140137/5/1864/55601/5efc4b29Eeccd985d/717c16de405a1a2e.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/126824/19/6027/50558/5efc4b29Ed9250ae3/f791abb77eea84bd.jpg!q70.dpg.webp",
+          "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/127807/3/5994/48789/5efc4b29E7d955c31/7c364806f3d73dd2.jpg!q70.dpg.webp"
+        ],
+        "product": "AJ1 男子 AIR JORDAN 1 LOW 运动鞋 553558 553558-123 41",
+        "price": "799.00",
+        "title": "品牌折扣",
+        "type": "运动户外",
+        "goods_id": 7,
+        "address": "江苏莆田",
+        "time": 24,
+        "sales": 3434355,
+        "goods_info": {
+          "picture": "//m.360buyimg.com/mobilecms/s843x843_jfs/t1/135764/28/3395/47497/5efc4b29E0b5f7e2a/17eec957a2fed503.jpg!q70.dpg.webp"
+        },
+        "sku": {
+          "price": "799.00",
+          "maxPrice":"2300.00",
+          "stock_num": 343545,
+          "hide_stock": false,
+          "tree": [
+            {
+              "k": "颜色",
+              "k_id": "123",
+              "k_s": "s1",
+              "count": 3,
+              "v": [
+                {
+                  "id": "553558-123",
+                  "name": "553558-123",
+                  "imgUrl": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/142665/26/1863/57007/5efc4b29E11c5a892/d9e862238a04dd38.jpg!q80.dpg.webp"
+                }
+              ],
+              "largeImageMode": true
+            },
+            {
+              "k": "尺码",
+              "k_id": "1234",
+              "k_s": "s2",
+              "count": 5,
+              "v": [
+                {
+                  "id": "39",
+                  "name": "39"
+                },
+                {
+                  "id": "40",
+                  "name": "40"
+                },
+                {
+                  "id": "41",
+                  "name": "41"
+                },
+                {
+                  "id": "42",
+                  "name": "42"
+                },
+                {
+                  "id": "43",
+                  "name": "43"
+                },
+                {
+                  "id": "44",
+                  "name": "44"
+                }
+              ]
+            }
+          ],
+          "list": [
+            
+            {
+              "id": 12,
+              "s1": "553558-123",
+              "s2": "39",
+              "price": 180000,
+              "discoun": 99,
+              "stock_num": 122,
+              "goods_id":1
+              
+            },
+            {
+              "id": 13,
+              "s1": "553558-123",
+              "s2": "40",
+              "price": 200000,
+              "discoun": 100,
+              "stock_num": 111,
+              "goods_id":2
+            },
+            {
+              "id": 14,
+              "s1": "553558-123",
+              "s2": "41",
+              "price": 125000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 15,
+              "s1": "553558-123",
+              "s2": "42",
+              "price": 99000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 16,
+              "s1": "553558-123",
+              "s2": "43",
+              "price": 99880,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            },
+            {
+              "id": 17,
+              "s1": "553558-123",
+              "s2": "44",
+              "price": 110000,
+              "discoun": 100,
+              "stock_num": 1211,
+              "goods_id":2
+            }
+           
+          ]
+        }
+      }
+    ]
+  },
+  
+  "shopDeatils": {
+    "quota": 10,
+    "quota_used": 0,
+    "goods_id": "12345",
+    "sku": {
+      "price": "124",
+      "stock_num": 100,
+      "hide_stock": false,
+      "tree": [
+        {
+          "k": "颜色",
+          "k_id": "123",
+          "k_s": "s1",
+          "count": 3,
+          "v": [
+            {
+              "id": "1121",
+              "name": "蓝色",
+              "imgUrl": "https://img.yzcdn.cn/upload_files/2017/02/21/FjKTOxjVgnUuPmHJRdunvYky9OHP.jpg!100x100.jpg"
+            },
+            {
+              "id": "1122",
+              "name": "藏蓝色",
+              "imgUrl": "//m.360buyimg.com/mobilecms/s750x750_jfs/t1/118034/1/10520/183281/5eee4112Ef56d5bec/3a3f42189a84fbde.jpg!q80.dpg.webp"
+            }
+          ],
+          "largeImageMode": true
+        },
+        {
+          "k": "尺码",
+          "k_id": "1234",
+          "k_s": "s2",
+          "count": 5,
+          "v": [
+            {
+              "id": "1221",
+              "name": "S"
+            },
+            {
+              "id": "1222",
+              "name": "M"
+            },
+            {
+              "id": "1223",
+              "name": "L"
+            }
+          ]
+        }
+      ],
+      "list": [
+        {
+          "id": 111,
+          "s1": "1121",
+          "s2": "1221",
+          "price": 10000,
+          "discoun": 99,
+          "stock_num": 122,
+          "goods_id": 12345
+        },
+        {
+          "id": 112,
+          "s1": "1121",
+          "s2": "1222",
+          "price": 1230000,
+          "discoun": 100,
+          "stock_num": 111,
+          "goods_id": 12345
+        },
+        {
+          "id": 113,
+          "s1": "1122",
+          "s2": "1221",
+          "price": 999000,
+          "discoun": 100,
+          "stock_num": 129,
+          "goods_id": 12345
+        },
+        {
+          "id": 113,
+          "s1": "1122",
+          "s2": "1222",
+          "price": 120012,
+          "discoun": 100,
+          "stock_num": 129,
+          "goods_id": 12345
+        },
+        {
+          "id": 113,
+          "s1": "1121",
+          "s2": "1223",
+          "price": 129092,
+          "discoun": 100,
+          "stock_num": 129,
+          "goods_id": 12345
+        },
+        {
+          "id": 113,
+          "s1": "1122",
+          "s2": "1223",
+          "price": 12123,
+          "discoun": 100,
+          "stock_num": 129,
+          "goods_id": 12345
+        }
+      ]
+    },
+
+    "goods_info": {
+      "picture": "//gw.alicdn.com/bao/uploaded/i3/129663914/O1CN013c503s1emel9akDRc_!!129663914.jpg_500x500q90.jpg_.webp"
+    }
+  },
+
+  "abc": {
+    "sku": {
+      "tree": [
+        {
+          "k": "颜色",
+          "k_id": "1",
+          "v": [
+            {
+              "id": "1215",
+              "name": "天蓝色"
+            },
+            {
+              "id": "1216",
+              "name": "白色",
+              "imgUrl": "https://img.yzcdn.cn/upload_files/2017/02/21/FjKTOxjVgnUuPmHJRdunvYky9OHP.jpg!100x100.jpg"
+            }
+          ],
+          "k_s": "s1",
+          "count": 2
+        },
+        {
+          "k": "尺寸",
+          "k_id": "2",
+          "v": [
+            {
+              "id": "1193",
+              "name": "1"
+            },
+            {
+              "id": "1194",
+              "name": "2"
+            }
+          ],
+          "k_s": "s2",
+          "count": 2
+        }
+      ],
+      "list": [
+        {
+          "id": 2259,
+          "price": 120,
+          "discount": 122,
+          "s1": "1215",
+          "s2": "1194",
+          "s3": "0",
+          "s4": "0",
+          "s5": "0",
+          "stock_num": 20,
+          "goods_id": 946755
+        },
+        {
+          "id": 2260,
+          "price": 110,
+          "discount": 112,
+          "s1": "1215",
+          "s2": "1194",
+          "s3": "0",
+          "s4": "0",
+          "s5": "0",
+          "stock_num": 2,
+          "goods_id": 946755
+        },
+        {
+          "id": 2278,
+          "price": 123,
+          "discount": 31,
+          "s1": "1216",
+          "s2": "1194",
+          "s3": "0",
+          "s4": "0",
+          "s5": "0",
+          "stock_num": 90,
+          "goods_id": 946755
+        }
+      ],
+      "price": "19.00",
+      "stock_num": 227,
+      "hide_stock": false
+    },
+    "goods_id": "946755",
+    "quota": 5,
+    "quota_used": 0,
+    "goods_info": {
+      "pictrue": "https://img.yzcdn.cn/upload_files/2017/02/21/FjKTOxjVgnUuPmHJRdunvYky9OHP.jpg!100x100.jpg"
+    }
+  }
+}
